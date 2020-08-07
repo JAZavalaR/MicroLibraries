@@ -5,6 +5,7 @@
  *      Author: jalej
  */
 
+#define TEST   (1)
 
 
 
